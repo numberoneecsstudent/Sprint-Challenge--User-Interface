@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+I would tell them that most of the tags aren't really important to remember because you can just look them up for example, if they forgot what to put text in they can just gooogle that and find that they need to use the p tag. But I would tell them that they need to remember the div tag and what it does as well as why it is important because it is used for everything. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+The block will take up the full width available with a new line before and after. The inline takes up only as much width as it needs and does not force a new line. 
 
 3. What are the 4 areas of the box model?
 
+Top, Right, Bottom, Left
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+It would work on the cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+It is valuable because it allows people in the the team to make edits on the same files and submit them for review and feedback. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
